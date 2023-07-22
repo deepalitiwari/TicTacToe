@@ -23,6 +23,6 @@ This Java program enables two players to play the classic Tic Tac Toe game on a 
 <li>Java</li>
 
 ## `Installation`
-<li>Clone the repository: https://github.com/riyanachwani/TicTacToe.git </li>
+<li>Clone the repository: https://github.com/deepalitiwari/TicTacToe.git </li>
 <li>Open the project folder in your preferred IDE.</li>
 <li>Run the project</li>
